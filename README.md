@@ -1,4 +1,4 @@
-# BIMM143_Project2_Final
+# BIMM143_Project2_Final_Chuling_Zhuang
 *This is the final draft of BIMM143 Project2 by pythonista Chuling Zhuang.
 
 Scientific question: Does the reduction of protein tyrosine phosphatase receptor type S (PTPRS) expression contribute to breast ductal carcinoma metastasis? If yes, is the Epithermal Growth Factor Receptor (EGFR) mediated EMT (epithelial-mesenchymal transition) pathway involved, or what other pathways are involved?  
