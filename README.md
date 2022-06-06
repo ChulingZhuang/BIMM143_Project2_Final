@@ -7,7 +7,7 @@ Scientific Hypothesis: If PTPRS is shown as a metastatic suppressor in hepatocel
 
 3 files are needed to successfully run the code:
 
-1) The jupytor notebook ([BIMM143_Project2_Final](https://github.com/ChulingZhuang/BIMM143_Project2_Final/blob/main/BIMM143_Project2_final.ipynb)).
+1) The jupytor notebook ([BIMM143_Project2_final.ipynb](https://github.com/ChulingZhuang/BIMM143_Project2_Final/blob/main/BIMM143_Project2_final.ipynb)).
 2) The csv file containing TPM count results of RNA seq ([30_breast_cancer_rna_TPM.csv](https://github.com/ChulingZhuang/BIMM143_Project2_Final/blob/main/30_breast_cancer_rna_TPM.csv)).
 3) The csv file containing experimental design of RNA seq ([30_breast_cancer_rna_experiment_design.csv](https://github.com/ChulingZhuang/BIMM143_Project2_Final/blob/main/30_breast_cancer_rna_experiment_design.csv))
 
